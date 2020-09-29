@@ -61,6 +61,10 @@ DriverVer           = 03/30/2004,0.0.0.0
 %AndroidDevice%    = RNDIS.NT.5.1, USB\VID_22B8&PID_41E4
 ; Motorola Sholes with adb
 %AndroidDevice%    = RNDIS.NT.5.1, USB\VID_22B8&PID_41E5
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_2A47&PID0003
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_22B8&PID_2E82
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_04E8&PID_6863
+%AndroidDevice%    = RNDIS.NT.5.1, USB\VID_0BB4&PID_0003
 
 [ControlFlags]
 ExcludeFromSelect=*
